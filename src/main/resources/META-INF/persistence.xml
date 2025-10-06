@@ -16,6 +16,6 @@
             <property name="javax.persistence.jdbc.user" value="sa"/>
             <property name="javax.persistence.jdbc.password" value=""/>
         </properties>
-    </persistence-unit>
+    </persistence-unit> 
 
 </persistence>
