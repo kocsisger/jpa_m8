@@ -28,12 +28,7 @@ public class Animal {
 
     @Override
     public String toString() {
-        return "Animal{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", age=" + age +
-                ", gender=" + gender +
-                '}';
+        return "" + name + "," + age;
     }
 
     public long getId() {
