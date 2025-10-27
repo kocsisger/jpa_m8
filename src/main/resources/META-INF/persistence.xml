@@ -8,6 +8,7 @@
         <description>Hibernate EntityManager Demo</description>
         <class>org.example.Customer</class>
         <class>org.example.Animal</class>
+        <class>org.example.Zoo</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
         <properties>
             <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/>
